@@ -1,4 +1,4 @@
-// <!--GAMFC-->version base on commit 43fad05dcdae3b723c53c226f8181fc5bd47223e, time is 2023-06-22 15:20:02 UTC<!--GAMFC-END-->.
+هر// <!--GAMFC-->version base on commit 43fad05dcdae3b723c53c226f8181fc5bd47223e, time is 2023-06-22 15:20:02 UTC<!--GAMFC-END-->.
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 
@@ -8,7 +8,7 @@ let userID = '77a571fb-4fd2-4b37-8596-1b7d9728bb5c';
 
 const proxyIPs = ['cdn.xn--b6gac.eu.org','cdn-all.xn--b6gac.eu.org' , 'cdn-b100.xn--b6gac.eu.org' , 'edgetunnel.anycast.eu.org' , 'cdn.anycast.eu.org' , 'workers.bestip.one'];
 
-let proxyIP = '77.91.78.140'
+let proxyIP = '198.12.95.225'
 
 let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
